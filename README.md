@@ -8,7 +8,7 @@ The series is based on Delfosse and Tham (arXiv:2407.06583), which introduces th
 
 ## Launch on qBraid
 
-Use the **Launch on qBraid** button on this tutorial's page in the qBraid Explore hub. It clones the repository into qBraid Lab and installs the required environment. When the environment is ready, select it as the notebook kernel and run the notebooks in order, starting with `1_State_and_Gate_Teleportation.ipynb`. For selecting environments and kernels in qBraid Lab, see the [environments guide](https://docs.qbraid.com/v2/lab/user-guide/environments).
+Use the **Launch on qBraid** button on this tutorial's page in the qBraid Explore hub. It clones the repository into qBraid Lab and installs the required environment. The notebooks run with the pre-configured `qBraid-SDK (v0.12.0)` environment. Once it's ready, select it as the notebook kernel and run the notebooks in order, starting with `1_State_and_Gate_Teleportation.ipynb`. For selecting environments and kernels in qBraid Lab, see the [environments guide](https://docs.qbraid.com/v2/lab/user-guide/environments).
 
 ## The notebooks
 
